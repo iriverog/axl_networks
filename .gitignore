@@ -1,7 +1,20 @@
+# Data folder
+data/*
+
+# Results and figures
+results/*
+figures/*
+
+# Slides with updates
+updates/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
+.DS_Store
+._.DS_Store
+code/._*
 
 # C extensions
 *.so
