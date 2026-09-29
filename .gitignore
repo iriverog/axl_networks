@@ -8,6 +8,9 @@ figures/*
 # Slides with updates
 updates/*
 
+# Reference genomes
+reference/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 .DS_Store
